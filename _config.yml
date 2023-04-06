@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Wi Seong Il"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Castle1_logo(2).png"
   bio              : "이어드림 2023/3/27(월)~2023/12/29(금)"
   location         : "South Korea"
   email            :
