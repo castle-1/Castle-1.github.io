@@ -1,7 +1,11 @@
+---
+layout: single
+title:  "파이썬 포스팅 테스트"
+---
 <!DOCTYPE html>
 <html>
 <head>
-<title></title>
+<title>포스팅 </title>
 </head>
     <body>
         <h1>파이썬이란?</h1>
