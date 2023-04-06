@@ -3,10 +3,6 @@ layout: single
 title:  "파이썬 포스팅 테스트"
 ---
 
-<!DOCTYPE html>
-  <head>
-    <title>테스트</title>
-  </head>
 <html>
     <body>
         <h1>파이썬이란?</h1>
