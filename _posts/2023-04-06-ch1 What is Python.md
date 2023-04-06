@@ -1,3 +1,7 @@
+---
+layout: single
+title:  "파이썬 포스팅 테스트"
+---
 <h1>파이썬이란?</h1>
 <hr>
 <img src ="https://blog.kakaocdn.net/dn/bkb4o9/btqIs89bNMJ/XkDr4WGfBBbQANYDLgxr31/img.jpg" style="float:left; clear:both; width:450px; height:300px;"/>
