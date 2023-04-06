@@ -40,9 +40,7 @@ title:  "파이썬 포스팅 테스트"
             <ul>
                 <li>사칙연산</li>
             </ul>
-    </body>
-</html>
-
+ 
 
 ```python
 1+2
@@ -188,3 +186,5 @@ add(3,4)
 
 
 <P style ="vertical-align: bottom; text-align: right;">출처:점프 투 파이썬</p>
+    </body>
+</html>
