@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Castle1 Blog"
+title                    : "캐슬원"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Wi Seong Il"
-description              : "Your yeardream"
+subtitle                 : "Act rather than think"
+name                     : "Castle1"
+description              : "캐슬원의 블로그 입니다."
 url                      : https://Castle-1.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
