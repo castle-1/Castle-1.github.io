@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "파이썬 포스팅 테스트"
+title:  "ch1. 파이썬이란?"
 categories : python
 ---
 
