@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "ch2. 파이썬데이터 타입(숫자형, )"
+categories : python
+---
+
 <h1>1. 숫자형</h1>
 <br>
 <hr>
