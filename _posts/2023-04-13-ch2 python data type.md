@@ -941,3 +941,4 @@ print(b.split(":")) # :을 기준으로 문자열을 나누고 리스트에 들�
 ```python
 
 ```
+<P style ="vertical-align: bottom; text-align: right;">출처:점프 투 파이썬</p>
