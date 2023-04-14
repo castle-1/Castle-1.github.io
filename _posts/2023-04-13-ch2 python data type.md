@@ -433,7 +433,7 @@ print(a)
   <li>문자열 포맷 코드</li>
 </ul>
 
-<table border = "1" width = "200" height="300" align = "left">
+<table align = "left">
   <th>코드</th>
   <th>설명</th>
   <tr>
