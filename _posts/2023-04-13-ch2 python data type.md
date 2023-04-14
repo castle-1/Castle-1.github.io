@@ -430,9 +430,10 @@ print(a)
 
 
 <ul>
-    <li>문자열 포맷 코드</li>
+  <li>문자열 포맷 코드</li>
 </ul>
-<table border = "1" width = "200", height="300" align = "left">
+
+<table border = "1" width = "200" height="300" align = "left">
   <th>코드</th>
   <th>설명</th>
   <tr>
@@ -451,7 +452,7 @@ print(a)
     <td>%f</td>
     <td>부동소수</td>
   </tr>
-<tr>
+  <tr>
     <td>%o</td>
     <td>8진수</td>
   </tr>
