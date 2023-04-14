@@ -6,17 +6,17 @@ categories : python
 
 <h1>1. 숫자형</h1>
 <hr>
-    <ul>
-        <li>숫자형이란 숫자 형태로 이루어진 자료형</li>
-        <li>정수, 실수, 8진수, 16진수</li>
-    </ul>
+  <ul>
+      <li>숫자형이란 숫자 형태로 이루어진 자료형</li>
+      <li>정수, 실수, 8진수, 16진수</li>
+  </ul>
 
 <h3>숫자형 사용하기</h3>
-    <ul>
-        <li>정수형 : 정수를 뜻하는 자료형</li>
-        <li>양의 정수</li>
-        <li>음의 정수</li>
-    </ul>
+  <ul>
+      <li>정수형 : 정수를 뜻하는 자료형</li>
+      <li>양의 정수</li>
+      <li>음의 정수</li>
+  </ul>
 
 
 ```python
@@ -89,9 +89,9 @@ print(b)
 
 
 <h3>숫자형 연산하기</h3>
-    <ul>
-        <li>사칙연산</li>
-    </ul>
+  <ul>
+      <li>사칙연산</li>
+  </ul>
 
 
 ```python
@@ -153,18 +153,18 @@ print(a//b)
 
 <h1>2. 문자열</h1>
 <hr>
-    <ul>
-        <li>문자열이란 문자, 단어 등으로 구성된 문자드의 집합</li>
-        <li>"you need python"</li>
-        <li>"파이썬"</li>
-        <li>"a"</li>
-        <li>"123"</li>
-    </ul>
+  <ul>
+      <li>문자열이란 문자, 단어 등으로 구성된 문자드의 집합</li>
+      <li>"you need python"</li>
+      <li>"파이썬"</li>
+      <li>"a"</li>
+      <li>"123"</li>
+  </ul>
 
 <h3>문자열 만들고 사용하기</h3>
-    <ul>
-        <li>문자열 선언하기</li>
-    </ul>
+  <ul>
+      <li>문자열 선언하기</li>
+  </ul>
 
 
 ```python
@@ -225,10 +225,10 @@ print(b)
 
 
 <h3>문자열 연산하기</h3>
-    <ul>
-        <li>파이썬에서는 문자열을 더하거나 곱할 수 있다.</li>
-        <li>문자열 더해서 연결하기</li>
-    </ul>
+  <ul>
+      <li>파이썬에서는 문자열을 더하거나 곱할 수 있다.</li>
+      <li>문자열 더해서 연결하기</li>
+  </ul>
 
 
 ```python
@@ -261,8 +261,8 @@ print("="*10)
 
 
 <ul>
-    <li>문자열 길이 구하기</li>
-    <li>len 함수 사용</li>
+  <li>문자열 길이 구하기</li>
+  <li>len 함수 사용</li>
 </ul>
 
 
@@ -283,10 +283,10 @@ len(a) #len함수 단독으로도 출력가능
 
 
 <h3>문자열 인덱싱과 슬라이싱</h3>
-    <ul>
-        <li>인덱싱  : 인덱싱이란 무엇인가를 가리킨다는 의미</li>
-        <li>슬라이싱 : 슬라이싱이란 무엇인가를 잘라낸다는 의미 </li>
-    </ul>
+  <ul>
+    <li>인덱싱  : 인덱싱이란 무엇인가를 가리킨다는 의미</li>
+    <li>슬라이싱 : 슬라이싱이란 무엇인가를 잘라낸다는 의미 </li>
+  </ul>
 
 
 ```python
@@ -381,10 +381,10 @@ print(day)
 
 
 <h3>문자열 포매팅</h3>
-    <ul>
-        <li>문자열 안의 특정한 값을 바꿔야 할 경우에 사용</li>
-        <li>문자열 안에 어떤 값을 삽임하는 방법</li>
-    </ul>
+  <ul>
+    <li>문자열 안의 특정한 값을 바꿔야 할 경우에 사용</li>
+    <li>문자열 안에 어떤 값을 삽임하는 방법</li>
+  </ul>
 
 
 ```python
@@ -433,42 +433,42 @@ print(a)
     <li>문자열 포맷 코드</li>
 </ul>
 <table border = "1" width = "200", height="300" align = "left">
-        <th>코드</th>
-        <th>설명</th>
-        <tr>
-            <td>%s</td>
-            <td>문자열</td>
-        </tr>
-        <tr>
-            <td>%c</td>
-            <td>문자1개</td>
-        </tr>
-        <tr>
-            <td>%d</td>
-            <td>정수</td>
-        </tr>
-        <tr>
-            <td>%f</td>
-            <td>부동소수</td>
-        </tr>
-        <tr>
-            <td>%o</td>
-            <td>8진수</td>
-        </tr>
-        <tr>
-            <td>%x</td>
-            <td>16진수</td>
-        </tr>
-        <tr>
-            <td>%%</td>
-            <td>literal %(%자체를 표현하고 싶을때)</td>
-        </tr>
+  <th>코드</th>
+  <th>설명</th>
+  <tr>
+    <td>%s</td>
+    <td>문자열</td>
+  </tr>
+  <tr>
+    <td>%c</td>
+    <td>문자1개</td>
+  </tr>
+  <tr>
+    <td>%d</td>
+    <td>정수</td>
+  </tr>
+  <tr>
+    <td>%f</td>
+    <td>부동소수</td>
+  </tr>
+<tr>
+    <td>%o</td>
+    <td>8진수</td>
+  </tr>
+  <tr>
+    <td>%x</td>
+    <td>16진수</td>
+  </tr>
+  <tr>
+    <td>%%</td>
+    <td>literal %(%자체를 표현하고 싶을때)</td>
+  </tr>
 </table>
 
 <h3>포맷 코드와 숫자 함께 사용하기</h3>
     
 <ul>
-    <li>정렬과 공백</li>
+  <li>정렬과 공백</li>
 </ul>
 
 
@@ -481,16 +481,16 @@ print(a)
 
 
 <table border = "2" align="left">
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>h</th>
-    <th>i</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>h</th>
+  <th>i</th>
 </table>
 
 
@@ -504,20 +504,20 @@ print(a)
 
 
 <table border = "2" align="left">
-    <th>h</th>
-    <th>i</th>
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>j</th>
-    <th>a</th>
-    <th>n</th>
-    <th>e</th>
+  <th>h</th>
+  <th>i</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>j</th>
+  <th>a</th>
+  <th>n</th>
+  <th>e</th>
 </table>
 
 <ul>
@@ -543,16 +543,16 @@ print(a)
 
 
 <table border = "2" align="left">
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>*</th>
-    <th>3</th>
-    <th>.</th>
-    <th>1</th>
-    <th>4</th>
-    <th>1</th>
-    <th>6</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>*</th>
+  <th>3</th>
+  <th>.</th>
+  <th>1</th>
+  <th>4</th>
+  <th>1</th>
+  <th>6</th>
 </table>
 
 <h3>format 함수를 사용한 포매팅</h3>
@@ -621,7 +621,7 @@ print(a)
 
 
 <ul>
-    <li>정렬</li>
+  <li>정렬</li>
 </ul>
 
 
@@ -662,7 +662,7 @@ print(b)
 
 
 <ul>
-    <li>소수점 표현하기</li>
+  <li>소수점 표현하기</li>
 </ul>
 
 
@@ -682,7 +682,7 @@ print(b)
 
 
 <ul>
-    <li>{ 또는 } 표현하기</li>
+  <li>{ 또는 } 표현하기</li>
 </ul>
 
 
@@ -695,10 +695,10 @@ print(a)
 
 
 <ul>
-    <li>f 문자열 포매팅</li>
-    <li>문자열 앞에 f접두사를 붙이면 f문자열 포매팅이 가능</li>
-    <li>f문자열 포매팅은 변수 값을 생성후 그 값을 참조할 수 있다.</li>
-    <li>f문자열은 표현식을 지원한다.</li>
+  <li>f 문자열 포매팅</li>
+  <li>문자열 앞에 f접두사를 붙이면 f문자열 포매팅이 가능</li>
+  <li>f문자열 포매팅은 변수 값을 생성후 그 값을 참조할 수 있다.</li>
+  <li>f문자열은 표현식을 지원한다.</li>
 </ul>
 
 
@@ -721,7 +721,7 @@ print(f"내이름은 {a['name2']}. 빙하타고왔지 나이는{a['age2']}살이
 
 
 <ul>
-    <li>정렬</li>
+  <li>정렬</li>
 </ul>
 
 
@@ -745,7 +745,7 @@ print(center)
 
 
 <ul>
-    <li>공백 채우기</li>
+  <li>공백 채우기</li>
 </ul>
 
 
@@ -781,8 +781,8 @@ print(f"{a:10.4f}")
 
 <h3>문자열 관련 함수</h3>
 <ul>
-    <li>문자열은 자체적으로 함수를 가지고 있다. -> 문자열 내장함수라고 한다.</li>
-    <li>함수르 사용하려면 문자열 변수 뒤에 '.'을 쓰고 함수이름을 쓰면 사용가능하다.</li>
+  <li>문자열은 자체적으로 함수를 가지고 있다. -> 문자열 내장함수라고 한다.</li>
+  <li>함수르 사용하려면 문자열 변수 뒤에 '.'을 쓰고 함수이름을 쓰면 사용가능하다.</li>
 </ul>
 
 
