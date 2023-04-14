@@ -481,7 +481,7 @@ print(a)
             hi
 
 
-<table border = "2" align="left">
+<table align="left">
   <th>*</th>
   <th>*</th>
   <th>*</th>
@@ -504,7 +504,7 @@ print(a)
     hi        jane
 
 
-<table border = "2" align="left">
+<table align="left">
   <th>h</th>
   <th>i</th>
   <th>*</th>
@@ -543,7 +543,7 @@ print(a)
         3.1416
 
 
-<table border = "2" align="left">
+<table align="left">
   <th>*</th>
   <th>*</th>
   <th>*</th>
