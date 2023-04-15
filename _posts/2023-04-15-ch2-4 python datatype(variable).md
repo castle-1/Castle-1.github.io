@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "ch2-4. 파이썬데이터 타입(variable)"
+categories : python
+---
 # 변수
 <br>
 
