@@ -1,6 +1,7 @@
 ---
 layout: single
-title:  "첫 포스팅입니다. 설레네요!"
+title:  "ch2-2. 파이썬데이터 타입(tuple, dictionary)"
+categories : python
 ---
 # 튜플 자료형
 
