@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "ch2. 파이썬데이터 타입(숫자형,문자열)"
+title:  "ch2. 파이썬데이터 타입(number,string)"
 categories : python
 ---
 
