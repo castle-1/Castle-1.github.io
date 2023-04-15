@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "ch2-3. 파이썬데이터 타입(set, bool)"
+categories : python
+---
 # 집합 자료형
 - 집함에 관련된 것을 쉽게 처리하기위한 자료형
 - set은 중복을 허용하지 않는다.
