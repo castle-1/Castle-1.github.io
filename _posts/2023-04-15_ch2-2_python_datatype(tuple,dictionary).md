@@ -498,5 +498,6 @@ a.get('height','176') #a 딕셔너리에는 height가 없기때문에 디폴트�
 
 
     False
+<P style ="vertical-align: bottom; text-align: right;">출처:점프 투 파이썬</p>
 
 
