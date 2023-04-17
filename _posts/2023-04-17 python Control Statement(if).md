@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "ch3. 제어문(if)"
+categories : python
+---
 # if 문 
 
 - 주어진 조건을 판단후 그상황에 맞게 처리해야 하는 경우가 발생.
