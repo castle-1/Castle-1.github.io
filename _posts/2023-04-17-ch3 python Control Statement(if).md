@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "ch3. 제어문(if)"
+title:  "ch3. 파이썬 제어문(if)"
 categories : python
 ---
 # if 문 
