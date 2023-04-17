@@ -14,11 +14,16 @@ categories : python
 >if문 기본 구조
 >>if 조건문:<br>
     <blockquote>수행할문장1</blockquote><br>
+    
     <blockquote>수행할문장2</blockquote><br>
+    
     <blockquote>...</blockquote><br>
+    
   else:<br>
     <blockquote>수행할문장1</blockquote><br>
+    
     <blockquote>수행할문장2</blockquote><br>
+    
     <blockquote>...</blockquote><br>
     
 ### 조건문이란?
