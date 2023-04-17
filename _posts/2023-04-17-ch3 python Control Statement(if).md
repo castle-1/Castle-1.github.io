@@ -12,10 +12,8 @@ categories : python
 <br>
 
 >if문 기본 구조
->>if 조건문:<br>
-    <blockquote>수행할문장1</blockquote><br><blockquote>수행할문장2</blockquote><br><blockquote>...</blockquote><br>    
-  else:<br>
-    <blockquote>수행할문장1</blockquote><br><blockquote>수행할문장2</blockquote><br><blockquote>...</blockquote><br>
+>>if 조건문:<br><blockquote>수행할문장1</blockquote><br><blockquote>수행할문장2</blockquote><br><blockquote>...</blockquote><br>    
+  else:<br><blockquote>수행할문장1</blockquote><br><blockquote>수행할문장2</blockquote><br><blockquote>...</blockquote><br>
     
 ### 조건문이란?
 - '조건문'이란 참과 거짓을 판단하는 문장
