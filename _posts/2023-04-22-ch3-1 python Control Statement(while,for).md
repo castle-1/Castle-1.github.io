@@ -314,7 +314,7 @@ for i in range(1,10):
 ```python
 for dan in range(2,10): # 구구단의 단을 나타내는 dan 변수
     for i in range(1,10):
-        print(f'{dan} * {i} = {dan*i}')
+        print(f'{dan} x {i} = {dan*i}')
 ```
 
     2 * 1 = 2
