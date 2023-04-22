@@ -115,9 +115,9 @@ print(a<b)
 >표현법
 >>poket = ['paper','money']<br>
   if 'money' in poket:<br>
-      <blockquote>pass</blockquote><br>
+      pass<br>
   else:<br>
-      <blockquote>print('돈을 지불해라')</blockquote><br>
+     print('돈을 지불해라')
 
 ### 다양한 조건을 판단하는 elif 
 - if와 else 만으로 다양한 조건을 판단하기 어려운 경우가 존재한다.
@@ -125,9 +125,9 @@ print(a<b)
 - 즉, elif는 이전 조건문이 거짓일때 수행된다.
 >표현법
 >>poket = ['paper', 'cellphone']<br>
-if 'money' in poket:<br><blockquote>print('택시를 타고가라')</blockquote><br>
-elif card: <br><blockquote>print('택시를 타고가라')</blockquote><br>
-else:<br><blockquote>print('걸어가라')</blockquote>
+if 'money' in poket:<br>print('택시를 타고가라')<br>
+elif card: <br>print('택시를 타고가라')<br>
+else:<br>print('걸어가라')
 
 ### 조건부 표현식
 - 조건부 표현식은 가독성에 유리, 한줄로 작성할 수 있어 활용성이 높다.
