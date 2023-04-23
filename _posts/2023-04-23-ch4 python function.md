@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "ch4. 파이썬 함수"
+categories : python
+---
 # 함수
 
 - 입력값을 가지고 어떤 일을 수행한 다음에 그 결과물을 내어놓는것.
@@ -462,3 +467,4 @@ print(result)
 ```python
 
 ```
+<P style ="vertical-align: bottom; text-align: right;">출처:점프 투 파이썬</p>
