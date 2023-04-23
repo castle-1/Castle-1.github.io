@@ -464,7 +464,5 @@ print(result)
 
 
 
-```python
 
-```
 <P style ="vertical-align: bottom; text-align: right;">출처:점프 투 파이썬</p>
