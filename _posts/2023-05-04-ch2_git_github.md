@@ -79,3 +79,5 @@
 - 잘못하기 전 과거로 돌아가 최신을 유지하면서 되돌렸다는 이력을 commit으로 남겨 모 든 팀원이 이 사항을 공유하고 주지시킬 수 있음.
 - commit을 따로 안할땐 --no-edit
 - merge commit을 되돌릴 땐 -m ( $git revert -m {1 or 2} {merge commit id} )
+  
+  <P style ="vertical-align: bottom; text-align: right;">출처:[yeardream]최우영 강사님 강의자료 </p>
