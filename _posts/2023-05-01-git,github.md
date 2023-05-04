@@ -36,7 +36,7 @@ categories : git,github
 
 ### git process flow and command
 
-![git process flow and command](/Users/castle1/Downloads/posts/images/git:github/git process flow and command.png)
+![git process flow and command](/assets/images/git_github_img/git process flow and command.png)
 
 ### git 과 github 는 같지 않다.
 
