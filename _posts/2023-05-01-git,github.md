@@ -210,4 +210,4 @@ categories : git,github
 - git push origin main
 - github 에서 확인!
 
-<P style ="vertical-align: bottom; text-align: right;">출처:[yeardream]최우영  </p>
+<P style ="vertical-align: bottom; text-align: right;">출처:[yeardream]최우영 강사님 강의자료 </p>
