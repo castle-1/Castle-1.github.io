@@ -77,7 +77,7 @@ categories : git,github
 # git practice(macOS)
 
 - github : https://github.com/
-- new repository![new repository](/Users/castle1/Downloads/posts/images/git:github/new repository.png)
+- new repository![new repository](/assets/images/git_github_img/new repository.png)
 
 ### .gitignore
 
@@ -101,27 +101,27 @@ categories : git,github
 
   - normal mode : `esc`를 누른상태
 
-    ![vim normal mode](/Users/castle1/Downloads/posts/images/git:github/vim normal mode.png)
+    ![vim normal mode](/assets/images/git_github_img/vim normal mode.png)
 
   - insert mode : 노말모드에서 `i`
 
-    ![vim insert mode](/Users/castle1/Downloads/posts/images/git:github/vim insert mode.png)
+    ![vim insert mode](/assets/images/git_github_img/vim insert mode.png)
 
   - command mode : 노말모드에서 `:(콜론)` 입력한 상태
 
-    ![vim command mode](/Users/castle1/Downloads/posts/images/git:github/vim command mode.png)
+    ![vim command mode](/assets/images/git_github_img/vim command mode.png)
 
   - visual mode : `v` 또는 `ctrl-v`를 누른상태
 
-    ![vim visual mode](/Users/castle1/Downloads/posts/images/git:github/vim visual mode.png)
+    ![vim visual mode](/assets/images/git_github_img/vim visual mode.png)
 
 ### vim 단축키
 
-![vim-shortkey-keyboard](/Users/castle1/Downloads/posts/images/git:github/vim-shortkey-keyboard.png)
+![vim-shortkey-keyboard](/assets/images/git_github_img/vim-shortkey-keyboard.png)
 
 ### git clone
 
-![git clone](/Users/castle1/Downloads/posts/images/git:github/git clone.png)
+![git clone](/assets/images/git_github_img/git clone.png)
 
 - 주소 복사 : https://github.com/castle-1/practic.git
 
@@ -129,13 +129,13 @@ categories : git,github
 
   - settings -> Developer settings -> personal access tokens -> tokens(classic)
 
-    ![access token](/Users/castle1/Downloads/posts/images/git:github/access token.png)
+    ![access token](/assets/images/git_github_img/access token.png)
 
     - 터미널에서 비밀번호 입력시 토큰값으로 입력
 
 - git clone https://github.com/castle-1/practic.git
 
-  ![git clone2](/Users/castle1/Downloads/posts/images/git:github/git clone2.png)
+  ![git clone2](/assets/images/git_github_img/git clone2.png)
 
 - 클론한 pracitc 폴더로 이동
   - cd practic
@@ -156,7 +156,7 @@ categories : git,github
 
 - https://www.toptal.com/developers/gitignore 에서 생성
 
-  ![gitignore_io](/Users/castle1/Downloads/posts/images/git:github/gitignore_io.png)
+  ![gitignore_io](/assets/images/git_github_img/gitignore_io.png)
 
 - 생성된 gitignore를 복사/붙여넣기
 
@@ -164,7 +164,7 @@ categories : git,github
 
 - git status : 상태 확인
 
-   ![git status](/Users/castle1/Downloads/posts/images/git:github/git status.png)
+   ![git status](/assets/images/git_github_img/git status.png)
 
 - git add .gitignore 
   - git add : 작업 디렉토리(working directory)상의 변경 내용을 스테이징 영역(staging area)에 추가하기 위해 사용하는 git 명령어
@@ -173,19 +173,19 @@ categories : git,github
 
   - git status
 
-    ![git status2](/Users/castle1/Downloads/posts/images/git:github/git status2.png)
+    ![git status2](/assets/images/git_github_img/git status2.png)
 
 - git commit
 
   - perfix 작성후 저장 : conf : create .gitignore
 
-    ![gitignore commit](/Users/castle1/Downloads/posts/images/git:github/gitignore commit.png)
+    ![gitignore commit](/assets/images/git_github_img/gitignore commit.png)
 
 - git push
 
   - git push origin main
 
-    ![push](/Users/castle1/Downloads/posts/images/git:github/push.png)
+    ![push](/assets/images/git_github_img/push.png)
 
 - 깃허브에서 확인
 
@@ -195,13 +195,13 @@ categories : git,github
 - vi hello_world.py : hello_world.py 실행
 - print('hello world') 작성후 저장
 - cat hello_world.py
-  - cat cat: 파일 내용을 터미널에 출력하거나 여러 파일을 하나로 합치는 명령어![cat](/Users/castle1/Downloads/posts/images/git:github/cat.png)
+  - cat cat: 파일 내용을 터미널에 출력하거나 여러 파일을 하나로 합치는 명령어![cat](/assets/images/git_github_img/cat.png)
 
 - python hello_world.py
 
   - hello_world.py 실행
 
-    ![python hello_world](/Users/castle1/Downloads/posts/images/git:github/python hello_world.png)
+    ![python hello_world](/assets/images/git_github_img/python hello_world.png)
 
 - git status
 - git add hello_world.py
@@ -209,3 +209,5 @@ categories : git,github
 - git commit
 - git push origin main
 - github 에서 확인!
+
+<P style ="vertical-align: bottom; text-align: right;">출처:[yeardream]최우영 </p>
