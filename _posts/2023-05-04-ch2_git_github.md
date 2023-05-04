@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "[yeardream] ch1 git/github"
+title:  "[yeardream] ch2 git/github Branch"
 categories : git,github
 ---
 
