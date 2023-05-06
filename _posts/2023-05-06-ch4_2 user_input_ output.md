@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "ch4-2. 사용자 입력과 출력"
+categories : python
+---
 # 사용자 입력과 출력
 
 ### 사용자 입력
@@ -95,3 +100,5 @@ for i in range(10):
 ```
 
     0 1 2 3 4 5 6 7 8 9 
+
+<P style ="vertical-align: bottom; text-align: right;">출처:점프 투 파이썬</p>
