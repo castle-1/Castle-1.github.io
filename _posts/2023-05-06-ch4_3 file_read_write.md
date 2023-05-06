@@ -34,7 +34,7 @@ f.close
     <function TextIOWrapper.close()>
 
 
-![open()_test](/assets/images/git_github_img/open()_test.png)
+![open()_test](/assets/images/open()_test.png)
 
 ### 원하는 경로에 디렉터리 생성
 
@@ -59,7 +59,7 @@ for i in range(1,11):
     f.write(data)
 f.close()
 ```
-![open()_test_입력](/assets/images/git_github_img/open()_test_입력.png)
+![open()_test_입력](/assets/images/open()_test_입력.png)
 - 기존 방법
 
 
@@ -231,7 +231,7 @@ for i in range(11,20):
 f.close()
 ```
 
-![a모드](/assets/images/git_github_img/a모드.png)
+![a모드](/assets/images/a모드.png)
 
 ### `with문`
 
