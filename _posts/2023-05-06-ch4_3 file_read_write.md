@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "ch4-3. 파일 읽고 쓰기"
+categories : python
+---
 # 파일 읽고 쓰기
 
 ### 파일 생성하기
@@ -29,8 +34,7 @@ f.close
     <function TextIOWrapper.close()>
 
 
-
-#  open()_test 이미지 첨부하기
+![open()_test](/assets/images/git_github_img/open()_test.png)
 
 ### 원하는 경로에 디렉터리 생성
 
@@ -55,7 +59,7 @@ for i in range(1,11):
     f.write(data)
 f.close()
 ```
-
+![open()_test_입력](/assets/images/git_github_img/open()_test_입력.png)
 - 기존 방법
 
 
@@ -227,7 +231,7 @@ for i in range(11,20):
 f.close()
 ```
 
-# 추가된 이미지 추가 
+![a모드](/assets/images/git_github_img/a모드.png)
 
 ### `with문`
 
@@ -268,3 +272,5 @@ for i in args:
 - 이력받은 인수를 for문을 통해 차례대로 출력
 - sys모듈의 argv는 명령 창에서 입력한 인수를 의미
 - aaa,bbb,ccc를 입력했다면 argv[0] -> 파일 일름 sys.py, argv[1] -> aaa, argv[2] -> bbb, argv[3] -> ccc
+
+<P style ="vertical-align: bottom; text-align: right;">출처:점프 투 파이썬</p>
