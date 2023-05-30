@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "ch5_4. 예외처리(try - exceot)"
+categories : python
+---
 # 예외처리
 
 - 오류를 무시하고 싶을때
@@ -360,4 +365,5 @@ except Myerror as e:
 
     천사
     허용되지 않는 별명입니다.
-
+    
+<P style ="vertical-align: bottom; text-align: right;">출처:점프 투 파이썬</p>
