@@ -1,3 +1,9 @@
+---
+layout: single
+title:  "ch5_5. 내장함수(python Built-in functions)(1)"
+categories : python
+---
+
 # 파이썬 내장함수(python Built-in functions)
 
 - 새로운 프로그램을 만들기 전에는 이미 만들어진 것들, 그중에서도 특히 파이썬 배포본에 함께 들어 있는 파이썬 라이브러리를 살펴보는 것이 매우 중요하다.
@@ -373,3 +379,4 @@ list(map(lambda a: a*2,[1,2,3,4]))
     [2, 4, 6, 8]
 
 
+<P style ="vertical-align: bottom; text-align: right;">출처:점프 투 파이썬</p>
