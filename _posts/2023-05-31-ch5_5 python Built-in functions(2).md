@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "ch5_5. 내장함수(python Built-in functions)(2)"
+categories : python
+---
 # 파이썬 내장함수(python Built-in functions)(2)
 
 ### max
@@ -270,3 +275,4 @@ print(list(zip('abc','def')))
     [(1, 4, 7), (2, 5, 8), (3, 6, 9)]
     [('a', 'd'), ('b', 'e'), ('c', 'f')]
 
+<P style ="vertical-align: bottom; text-align: right;">출처:점프 투 파이썬</p>
