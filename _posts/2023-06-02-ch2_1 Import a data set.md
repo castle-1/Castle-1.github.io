@@ -1,3 +1,10 @@
+
+---
+layout: single
+title:  "ch2_1 데이터 집합 불러오기(Import a data set)"
+categories : pandas
+---
+
 # 데이터 집합 불러오기
 
 ### 데이터 분석의 시작은 데이터 불러오기부터
@@ -1805,10 +1812,4 @@ df.loc[10:13,['country','lifeExp','gdpPercap']]
   </tbody>
 </table>
 </div>
-
-
-
-
-```python
-
-```
+<P style ="vertical-align: bottom; text-align: right;">출처:Do it! 데이터 분석을 위한 판다스 입문</p>
