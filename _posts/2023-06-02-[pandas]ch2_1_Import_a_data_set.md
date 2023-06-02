@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "ch2_1 데이터 집합 불러오기(Import a data set)"
+title:  "[pandas]ch2_1 데이터 집합 불러오기(Import a data set)"
 categories : pandas
 ---
 # 데이터 집합 불러오기
