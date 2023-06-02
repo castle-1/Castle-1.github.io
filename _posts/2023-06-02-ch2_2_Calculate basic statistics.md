@@ -1,4 +1,10 @@
-# 데이터 불러오기(gapminder)
+---
+layout: single
+title:  "ch2_2 기초적인 통계 계산하기"
+categories : pandas
+---
+# 기초적인 통계 계산하기
+###데이터 불러오기(gapminder)
 
 
 ```python
@@ -627,4 +633,4 @@ df.groupby('continent')['country'].nunique()
     Oceania      2
     Name: country, dtype: int64
 
-
+<P style ="vertical-align: bottom; text-align: right;">출처:Do it! 데이터 분석을 위한 판다스 입문</p>
