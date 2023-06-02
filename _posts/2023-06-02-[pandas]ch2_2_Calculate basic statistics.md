@@ -4,7 +4,7 @@ title:  "[pandas]ch2_2 기초적인 통계 계산하기"
 categories : pandas
 ---
 # 기초적인 통계 계산하기
-###데이터 불러오기(gapminder)
+### 데이터 불러오기(gapminder)
 
 
 ```python
