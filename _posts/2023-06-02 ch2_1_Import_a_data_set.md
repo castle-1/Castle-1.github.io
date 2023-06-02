@@ -3,7 +3,6 @@ layout: single
 title:  "ch2_1 데이터 집합 불러오기(Import a data set)"
 categories : pandas
 ---
-
 # 데이터 집합 불러오기
 
 ### 데이터 분석의 시작은 데이터 불러오기부터
